@@ -534,7 +534,7 @@ figcaption {
 /*Slide two*/
 /* coding lesson page*/
 .slide-three {
-  background: url("slide3-background.png");
+  background: url("./assets/slide3-background.png");
   background-size: cover;
 }
 
