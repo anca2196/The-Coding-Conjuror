@@ -1,0 +1,23 @@
+{
+  "name": "The-Coding-Conjuror",
+  "version": "1.0.0",
+  "description": "<br /> <p align=\"center\">   <a href=\"https://github.com/lukaskreibig/codingConjurors\">     <img src=\"assets/coding-conjurors-logo.png\" alt=\"Logo\" width=\"80\" height=\"80\">   </a>",
+  "main": "script-intro.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anca2196/The-Coding-Conjuror.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anca2196/The-Coding-Conjuror/issues"
+  },
+  "homepage": "https://github.com/anca2196/The-Coding-Conjuror#readme"
+}
